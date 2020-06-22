@@ -6550,11 +6550,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\dev\\API-7194\\Shop\\Shop.csproj",
+      "projectUniqueName": "D:\\dev\\API-7194\\ShopAPI\\Shop.csproj",
       "projectName": "Shop",
-      "projectPath": "D:\\dev\\API-7194\\Shop\\Shop.csproj",
+      "projectPath": "D:\\dev\\API-7194\\ShopAPI\\Shop.csproj",
       "packagesPath": "C:\\Users\\thiag\\.nuget\\packages\\",
-      "outputPath": "D:\\dev\\API-7194\\Shop\\obj\\",
+      "outputPath": "D:\\dev\\API-7194\\ShopAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
